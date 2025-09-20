@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
     int start,end;
+    int a;
     printf("enter the value of starting no -");
     scanf("%d",&start);
     printf("enter the end value -");
