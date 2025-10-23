@@ -1,18 +1,19 @@
 #include <stdio.h>
-int main() {
-    int start,end;
+int main()
+{
+    int start, end;
     printf("enter the value of starting no -");
-    scanf("%d",&start);
+    scanf("%d", &start);
     printf("enter the end value -");
-    scanf("%d",&end);
+    scanf("%d", &end);
     int i = start;
-    while(i<=end)
-    { if(i%2 !=0) 
+    while (i <= end)
     {
-        printf("%d\n",i);
-    }
+        if (i % 2 != 0)
+        {
+            printf("%d\n", i);
+        }
         i++;
     }
-
     return 0;
 }
