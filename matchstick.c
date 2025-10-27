@@ -15,7 +15,6 @@ int main()
         
         if (choosen > 4 || choosen < 1)
         {
-
             continue; // restart  loop if invalid
         }
 
