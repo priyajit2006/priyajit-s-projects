@@ -33,9 +33,4 @@ int main()
         return 0;
     }
 }
-/*
-gcc count_numbers.c
-./a.exe
 
-
-*/

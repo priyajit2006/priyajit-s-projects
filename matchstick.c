@@ -26,7 +26,3 @@ int main()
     printf("computer wins!!!\n");
     return 0;
 }
-/*
-     gcc matchstick.c
-    ./a.exe
-*/

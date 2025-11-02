@@ -37,9 +37,3 @@ int main()
 
     return 0;
 }
-/*
-    gcc number_guessing.c
-    ./a.exe
-
-
-*/

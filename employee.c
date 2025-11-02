@@ -21,8 +21,3 @@ int main()
     return 0;
 }
 
-/*
- gcc employee.c
-
- ./a.exe
-*/

@@ -12,13 +12,8 @@ int main()
     num = num / 8;
     place = place * 10;
   }
-  printf(" octal equivalent = %d\n", octal);
+  printf("octal equivalent = %d\n", octal);
 
   return 0;
 }
 
-/*
-  gcc octal_converter.c
-  ./a.exe
-
-*/
